@@ -1,0 +1,193 @@
+#!/usr/bin/env node
+
+require('../config/config')
+
+
+const logger = require('log4js').getLogger('startup');
+const address = require('address');
+const constants = require('../app/common/constants.js');
+const fu = require('../app/common/funciones');
+const crypto = require('crypto');
+
+const parametroController = require('../app/controllers/parametroController');
+const usuarioController = require('../app/controllers/usuarioController');
+
+var Parametro = require('../app/domain/parametro')
+var Usuario = require('../app/domain/usuario')
+
+
+// variables constantes
+global.title = 'Parking 365 - Config';
+global.tipomodulo = constants.tipomodulo;
+global.perfil = constants.perfil;
+global.constantsValues = constants.constantsValues;
+
+logger.info('Variables globales de entorno cargadas.');
+if (process.env.SHOW_LOG) console.info('[%s] Variables globales de entorno cargadas.', fu.obtenerHora());
+
+require('../app')
+    /*
+    try {
+      Promise.all([
+        obtenermac(),
+        obtenerparametros(),
+        obteneradministrator()
+      ]).then(responses => {
+        mac = responses[0];
+        ipaddress = address.ip();
+        parametro = responses[1];
+        usuario = responses[2];
+
+
+        if (!parametro) {
+          logger.info('No existen los parametros.');
+          if (process.env.SHOW_LOG) console.info('[%s] No existen los parametros.', fu.obtenerHora());
+
+          parametro = new Parametro();
+          parametro.nombre = 'Raspberry pi b3+';
+          parametro.tipomodulo = global.tipomodulo.ENTRADA;
+          parametro.privateport = global.constantsValues.PRIVATE_PORT;
+        }
+
+        if (!usuario) {
+          logger.info('No existe el usuario administrador.');
+          if (process.env.SHOW_LOG) console.info('[%s] No existe el usuario administrador.', fu.obtenerHora());
+
+          usuario = new Usuario();
+          usuario.idperfil = global.perfil.ADMIN;
+          usuario.usuario = global.constantsValues.USER_ADMIN;
+        }
+
+        parametro.mac = mac;
+        parametro.privateaddress = ipaddress;
+
+        usuario.saltsecret = global.constantsValues.SALT_SECRET;
+        usuario.clave = crypto.createHash('md5').update(mac + usuario.saltsecret).digest('hex');
+
+        return gestionarParametro({ parametro: parametro, usuario: usuario });
+      }).then(response => {
+        return gestionarUsuario(response);
+      }).then(resultado => {
+
+        global.parametro = resultado.parametro;
+        global.admin = resultado.usuario;
+
+        require('../app');
+
+      }).catch(error => {
+        throw error;
+      });
+
+    } catch (ex) {
+      logger.error(ex.message || ex);
+      if (process.env.SHOW_LOG) console.info('[init]-Error: ', err);
+    }
+    */
+
+function obtenermac() {
+    return new Promise((resolve, reject) => {
+        address.mac(function(err, macaddr) {
+            if (err) {
+                reject(err);
+            } else {
+                resolve(macaddr.split(':').join('').toUpperCase());
+            }
+        });
+    });
+}
+
+function obtenerparametros() {
+    return new Promise((resolve, reject) => {
+        parametroController.existe(function(err, sucess) {
+            if (err) {
+                reject(error);
+            } else {
+                if (sucess) {
+                    parametroController.obtener(function(error, parametro) {
+                        if (error) {
+                            reject(error);
+                        } else {
+                            resolve(parametro);
+                        }
+                    });
+                } else {
+                    resolve(null);
+                }
+            }
+        });
+    });
+}
+
+function obteneradministrator() {
+    return new Promise((resolve, reject) => {
+        usuarioController.obtenerusuario(global.constantsValues.USER_ADMIN, function(err, usuario) {
+            if (err) {
+                reject(error);
+            } else {
+                resolve(usuario);
+            }
+        });
+    });
+}
+
+function gestionarParametro(params) {
+    return new Promise((resolve, reject) => {
+        if (params.parametro._id == '0') {
+            parametroController.grabar(params.parametro, function(err, resultado) {
+                if (err) {
+                    reject(err);
+                } else {
+                    params.parametro._id = resultado._id;
+
+                    logger.info('Crear los parametros para el sistema.');
+                    if (process.env.SHOW_LOG) console.info('[%s] Crear los parametros para el sistema.', fu.obtenerHora());
+
+                    resolve(params);
+                }
+            });
+        } else {
+            parametroController.actualizar(params.parametro, function(error) {
+                if (error) {
+                    reject(error);
+                } else {
+                    logger.info('Actualizar los parametros para el sistema.');
+                    if (process.env.SHOW_LOG) console.info('[%s] Actualizar los parametros para el sistema.', fu.obtenerHora());
+
+                    resolve(params);
+                }
+            });
+        }
+    });
+}
+
+function gestionarUsuario(params) {
+    return new Promise((resolve, reject) => {
+        if (params.usuario._id == '0') {
+
+            usuarioController.grabar(params.usuario, function(err, resultado) {
+                if (err) {
+                    reject(err);
+                } else {
+                    params.usuario._id = resultado._id;
+
+                    logger.info('Crear el administrador para el sistema.');
+                    if (process.env.SHOW_LOG) console.info('[%s] Crear el administrador para el sistema.', fu.obtenerHora());
+
+                    resolve(params);
+                }
+            });
+
+        } else {
+            parametroController.actualizar(params.usuario, function(error) {
+                if (error) {
+                    reject(error);
+                } else {
+                    logger.info('Actualizar clave el administrador del sistema.');
+                    if (process.env.SHOW_LOG) console.info('[%s] Actualizar clave el administrador del sistema.', fu.obtenerHora());
+
+                    resolve(params);
+                }
+            });
+        }
+    });
+}

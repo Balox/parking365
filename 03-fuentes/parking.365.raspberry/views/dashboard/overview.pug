@@ -1,0 +1,21 @@
+
+div
+  include ../menu
+  snap-dragger
+  snap-content(snap-opt-tap-to-close='false')
+    a(href='', snap-toggle='left', ng-click='menuOpen = !menuOpen')
+      span.menutoggle
+        i.fa.fa-bars.fa-2x(ng-hide='menuOpen')
+        i.fa.fa-times.fa-2x(ng-show='menuOpen')
+    .fr
+      h2
+        | Overview 
+        small Why is Versatile Theme so awesome?
+    .jumbotron
+      .container
+        h1 Welcome!
+        | 				I don't want to bloat this Versatile Theme Free Edition AngularJS Admin theme with a lot of plugins. To install plugins we have bower. Let's keep it real clean!
+        br
+        br
+        p
+          a.btn.btn-primary.btn-lg.btn-white(ui-sref='login') Logout

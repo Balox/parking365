@@ -1,0 +1,16 @@
+instrucciones programa de estacionamiento parking
+
+requisitos tener instalado java aqui les dejo el programa si no lo tiene 
+
+https://www.java.com/es/download/
+
+
+usuario administrador
+usuario: mm
+clave: mm
+
+usuario sin permisos de administracion solo registra entrada y salida de vehiculos y imprime ticket
+
+
+usuario:ss
+clave:ss

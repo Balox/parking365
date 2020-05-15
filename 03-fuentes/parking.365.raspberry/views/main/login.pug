@@ -1,0 +1,29 @@
+.login-page
+  .img-container
+    .text-center.pull-right.photo
+      img.user-avatar.img-circle.img-responsive(src='images/flat-avatar.png')
+      h1
+        | VERSATILE
+        br
+        span DASHBOARD
+        br
+        small Free Version
+  .form-content
+    .pro-link
+      a(href='http://www.strapui.com/') MORE PREMIUM THEME
+    form.bottom-75(role='form', ng-submit='submit()')
+      .table-form
+        .form-groups
+          .form-group
+            input.form-control.input-lg(type='text', id='', placeholder='EMAIL')
+          .form-group
+            input.form-control.input-lg(type='password', id='', placeholder='PASSWORD')
+        .button-container
+          button.btn.btn-default.login(type='submit')
+            img(src='images/arrow.png', alt='')
+      .remember
+        label.checkbox1(for='Option')
+          input#Option(type='checkbox')
+          span
+        | 				remember me
+        span.pass  forgot password?

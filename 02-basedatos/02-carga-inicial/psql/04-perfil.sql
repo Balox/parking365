@@ -1,0 +1,3 @@
+
+INSERT INTO admin.perfil(idperfil, idpadre, nombre, descripcion, auditoria_creacionusuario, auditoria_actualizacionusuario) VALUES (nextval('admin.seq_perfil_pk'),0 ,'ADMINISTRADOR', 'ADMINISTRADOR', 1, 1);
+INSERT INTO admin.perfil(idperfil, idpadre, nombre, descripcion, auditoria_creacionusuario, auditoria_actualizacionusuario) VALUES (nextval('admin.seq_perfil_pk'),0 ,'OPERADOR', 'OPERADOR', 1, 1);

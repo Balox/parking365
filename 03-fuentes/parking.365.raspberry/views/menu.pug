@@ -1,0 +1,8 @@
+snap-drawer
+  .snap-menu
+    .sidebar-header.text-center
+      img.sidebar-img.img-circle(src='images/flat-avatar.png')
+
+    ul.snap-ul
+      li(ng-repeat='item in menuItems', ng-class="{active: $state.includes('{{item.name}}') }")
+        a(ui-sref='{{item.name}}') {{item.text}}

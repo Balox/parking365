@@ -1,0 +1,15 @@
+.jumbotron
+  .text-center
+    img(src='images/yeoman.png', alt="I'm Yeoman")
+  h1
+    | Yeoman generator for AngularJS 
+    small
+      | built with 
+      a(href='http://gulpjs.com/') Gulp
+      | , 
+      a(href='getbootstrap.com') Bootstrap
+      |  and 
+      a(href='http://lesscss.org/') LESS
+h3 Tasks
+ul.list-group
+  li.list-group-item(ng-repeat='task in tasks') {{task}}

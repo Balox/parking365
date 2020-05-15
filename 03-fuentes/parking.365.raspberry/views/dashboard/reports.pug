@@ -1,0 +1,19 @@
+div
+  include ../menu
+  snap-dragger
+  snap-content.bg-dark(snap-opt-tap-to-close='false')
+    a(href='', snap-toggle='left', ng-click='menuOpen = !menuOpen')
+      span.menutoggle
+        i.fa.fa-bars.fa-2x(ng-hide='menuOpen')
+        i.fa.fa-times.fa-2x(ng-show='menuOpen')
+    .fr
+      h2
+        | Reports 
+        small Work with Chart.js and D3
+    span.glyphicon.glyphicon-dashboard.bg-fade
+    .jumbotron
+      .container
+        h1 Add Charts here
+        p You can use C3.js or Chart.js
+        p
+          a.btn.btn-primary.btn-lg.btn-white(ui-sref='overview') Back to Overview

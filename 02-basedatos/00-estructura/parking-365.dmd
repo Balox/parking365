@@ -1,0 +1,9 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="parking-365" id="32E85610-913D-9E8E-D7C0-94B3D60E4209" version="3.5">
+<createdBy>Balox</createdBy>
+<createdTime>2018-09-27 05:05:47 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>parking-365</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>32E85610-913D-9E8E-D7C0-94B3D60E4209</designId>
+</OSDM_Design>

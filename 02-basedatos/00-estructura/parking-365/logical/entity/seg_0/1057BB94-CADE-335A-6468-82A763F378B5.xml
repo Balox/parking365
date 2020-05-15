@@ -1,0 +1,119 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="1057BB94-CADE-335A-6468-82A763F378B5" name="Puerta">
+<createdBy>peduardo</createdBy>
+<createdTime>2018-09-29 00:02:55 UTC</createdTime>
+<ownerDesignName>parking-365</ownerDesignName>
+<engineerTo>
+<item key="75CB40CF-3D14-7E83-2F28-75D9E4E74FA1" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="idpuerta" id="6BBE89B4-F6DB-6CEF-80E9-C58C0689E396">
+<createdBy>peduardo</createdBy>
+<createdTime>2018-09-29 00:03:44 UTC</createdTime>
+<ownerDesignName>parking-365</ownerDesignName>
+<engineerTo>
+<item key="75CB40CF-3D14-7E83-2F28-75D9E4E74FA1" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="idtipopuerta" id="844A10ED-5417-799B-9432-20E36947DB17">
+<createdBy>Balox</createdBy>
+<createdTime>2018-12-29 18:39:52 UTC</createdTime>
+<generatorID>47F95566-187A-94A2-B475-E69960CBC441</generatorID>
+<ownerDesignName>parking-365</ownerDesignName>
+<engineerTo>
+<item key="75CB40CF-3D14-7E83-2F28-75D9E4E74FA1" value="true"/>
+</engineerTo>
+<referedAttribute>E7484BCA-C273-4103-A483-CE8472F0B06F</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="numero" id="C4031B01-313A-56EA-5DDF-586D97FA6AA3">
+<createdBy>peduardo</createdBy>
+<createdTime>2018-09-29 00:06:37 UTC</createdTime>
+<comment>numero de puerta de E/S</comment>
+<commentInRDBMS>numero de puerta de E/S</commentInRDBMS>
+<ownerDesignName>parking-365</ownerDesignName>
+<engineerTo>
+<item key="75CB40CF-3D14-7E83-2F28-75D9E4E74FA1" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="usuariocreacion" id="F189B70E-B593-791C-D5C7-CCE560E54525">
+<createdBy>peduardo</createdBy>
+<createdTime>2018-09-29 00:07:39 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>parking-365</ownerDesignName>
+<engineerTo>
+<item key="75CB40CF-3D14-7E83-2F28-75D9E4E74FA1" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT011</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="estadoregistro" id="36C16556-4D7A-52A4-EBF7-363A874B4311">
+<createdBy>peduardo</createdBy>
+<createdTime>2018-09-29 00:07:39 UTC</createdTime>
+<comment>A=&gt;Activo, I=&gt;Inactivo, B=&gt;Bloqueado, E=&gt;Eliminado</comment>
+<commentInRDBMS>A=&gt;Activo, I=&gt;Inactivo, B=&gt;Bloqueado, E=&gt;Eliminado</commentInRDBMS>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>parking-365</ownerDesignName>
+<engineerTo>
+<item key="75CB40CF-3D14-7E83-2F28-75D9E4E74FA1" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT025</logicalDatatype>
+<dataTypeSize>1 BYTE</dataTypeSize>
+<defaultValue>&apos;A&apos;</defaultValue>
+<ownDataTypeParameters>1 BYTE,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="fechacreacion" id="57D6A2E2-6F6A-D0C0-DDBC-EC2C677B2618">
+<createdBy>peduardo</createdBy>
+<createdTime>2018-09-29 00:07:39 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>parking-365</ownerDesignName>
+<engineerTo>
+<item key="75CB40CF-3D14-7E83-2F28-75D9E4E74FA1" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT046</logicalDatatype>
+<defaultValue>current_timestamp</defaultValue>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="460E2CF7-9E1D-3E46-B4A2-A5D656681D5F" name="Puerta PK">
+<createdBy>peduardo</createdBy>
+<createdTime>2018-09-29 00:05:56 UTC</createdTime>
+<ownerDesignName>parking-365</ownerDesignName>
+<engineerTo>
+<item key="75CB40CF-3D14-7E83-2F28-75D9E4E74FA1" value="true"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>6BBE89B4-F6DB-6CEF-80E9-C58C0689E396</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

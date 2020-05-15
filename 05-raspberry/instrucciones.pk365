@@ -1,0 +1,124 @@
+======================================================================
+RASPBERRY PI 3B+
+======================================================================
+
+ssh pi@192.168.1.8
+
+user: pi
+psw: raspberry
+
+======================================================================
+Install Node.js on Raspberry Pi
+links: 
+- https://www.w3schools.com/nodejs/nodejs_raspberrypi.asp
+- https://www.instructables.com/id/Install-Nodejs-and-Npm-on-Raspberry-Pi/
+======================================================================
+
+1- Actualice su lista de paquetes del sistema
+
+pi@w3demopi:~ $ sudo apt-get update
+
+2- Actualice todos sus paquetes instalados a su última versión:
+pi@w3demopi:~ $ sudo apt-get dist-upgrade
+
+3. 
+pi@raspberrypi:~ $ sudo apt-get install i2c-tools
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+i2c-tools is already the newest version (3.1.2-3).
+0 upgraded, 0 newly installed, 0 to remove and 92 not upgraded.
+
+
+================================================================================
+Tutorial de Raspberry Pi SPI e I2C
+https://learn.sparkfun.com/tutorials/raspberry-pi-spi-and-i2c-tutorial/all
+================================================================================
+
+pi@raspberrypi:~ $ i2cdetect -y 1
+     0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f
+00:          -- -- -- -- -- -- -- -- -- -- -- -- --
+10: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+20: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+30: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+40: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+50: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+60: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+70: -- -- -- -- -- -- -- --
+
+pi@raspberrypi:~ $ sudo apt install libnfc5 libnfc-bin libnfc-examples
+
+
+
+
+================================================================================
+================================================================================
+Instale Node.js y Npm en Raspberry Pi
+https://www.instructables.com/id/Install-Nodejs-and-Npm-on-Raspberry-Pi/
+================================================================================
+================================================================================
+
+
+================================================================================
+Paso 1: Detecta qué versión de Node.js necesitas
+- El procesador en Raspberry Pi es ARM, pero depende del modelo, puede ser ARMv6, ARMv7 o ARMv8. Estas 3 versiones de ARM son compatibles con Node.js. Entonces, antes que nada, escriba esto en su terminal en raspberry pi para detectar la versión que necesita:
+================================================================================
+
+pi@raspberrypi:~ $ uname -m
+armv7l
+
+================================================================================
+Paso 2: Descargar Node.JS Linux Binaries para ARM
+- Vaya a la página de descarga de node.js y marque el botón derecho en la versión de ARM que necesita y elija Copiar dirección de enlace.
+=== https://nodejs.org/dist/v8.9.4/ ====
+================================================================================
+
+pi@raspberrypi:~ $ wget https://nodejs.org/dist/v8.9.4/node-v8.9.4-linux-armv7l.tar.gz
+--2020-01-05 02:26:16--  https://nodejs.org/dist/v8.9.4/node-v8.9.4-linux-armv7l.tar.gz
+Resolving nodejs.org (nodejs.org)... 104.20.22.46, 104.20.23.46, 2606:4700:10::6814:172e, ...
+Connecting to nodejs.org (nodejs.org)|104.20.22.46|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 17159621 (16M) [application/gzip]
+Saving to: ‘node-v8.9.4-linux-armv7l.tar.gz’
+
+node-v8.9.4-linux-armv7l.ta 100%[=========================================>]  16.36M  3.53MB/s    in 4.7s
+
+2020-01-05 02:26:21 (3.45 MB/s) - ‘node-v8.9.4-linux-armv7l.tar.gz’ saved [17159621/17159621]
+
+================================================================================
+Paso 3: extraer el archivo
+- Usando el tar que ya está instalado con el sistema en su raspberry pi simplemente escriba esto (asegúrese de cambiar el nombre del archivo con el archivo que tiene)
+================================================================================
+
+pi@raspberrypi:~ $ tar -xzf node-v8.9.4-linux-armv7l.tar.gz
+
+================================================================================
+Paso 4: Copiar nodo a /usr/local
+================================================================================
+
+pi@raspberrypi:~ $ cd node-v8.9.4-linux-armv7l/
+pi@raspberrypi:~/node-v8.9.4-linux-armv7l $ sudo cp -R * /usr/local/
+
+================================================================================
+Paso 5: Verifique si todo está instalado correctamente
+- Compruebe si nodo y npm están instalados correctamente. Estas líneas deberían imprimir la versión del nodo y npm instalados.
+================================================================================
+
+pi@raspberrypi:~/node-v8.9.4-linux-armv7l $ node -v
+v8.9.4
+pi@raspberrypi:~/node-v8.9.4-linux-armv7l $ npm -v
+5.6.0
+
+
+
+
+https://ui-router.github.io/ng1/docs/0.4.2/#/api/ui.router.state.$stateProvider
+https://scotch.io/tutorials/angular-routing-using-ui-router
+
+http://plnkr.co/edit/TOP4byWVqLTJ0qxTMKEH?p=preview => ESTE TIENE AUHT
+https://stackoverflow.com/questions/36987199/load-pug-views-with-ui-router
+
+
+
+
+

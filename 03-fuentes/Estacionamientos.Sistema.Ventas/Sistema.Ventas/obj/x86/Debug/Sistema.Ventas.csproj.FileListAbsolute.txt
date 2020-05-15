@@ -1,0 +1,476 @@
+C:\Users\jcalvarez\Documents\Sistema.Ventas\Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe
+C:\Users\jcalvarez\Documents\Sistema.Ventas\Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.pdb
+C:\Users\jcalvarez\Documents\Sistema.Ventas\Sistema.Ventas\Sistema.Ventas\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\jcalvarez\Documents\Sistema.Ventas\Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\jcalvarez\Documents\Sistema.Ventas\Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\jcalvarez\Documents\Sistema.Ventas\Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\jcalvarez\Documents\Sistema.Ventas\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.baml
+C:\Users\jcalvarez\Documents\Sistema.Ventas\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.g.cs
+C:\Users\jcalvarez\Documents\Sistema.Ventas\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_Content.g.cs
+C:\Users\jcalvarez\Documents\Sistema.Ventas\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_MarkupCompile.cache
+C:\Users\jcalvarez\Documents\Sistema.Ventas\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.g.resources
+C:\Users\jcalvarez\Documents\Sistema.Ventas\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Login.resources
+C:\Users\jcalvarez\Documents\Sistema.Ventas\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.MDIMenu.resources
+C:\Users\jcalvarez\Documents\Sistema.Ventas\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Properties.Resources.resources
+C:\Users\jcalvarez\Documents\Sistema.Ventas\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csproj.GenerateResource.Cache
+C:\Users\jcalvarez\Documents\Sistema.Ventas\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.exe
+C:\Users\jcalvarez\Documents\Sistema.Ventas\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.pdb
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.exe
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.pdb
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.pdb
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csprojResolveAssemblyReference.cache
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.baml
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.g.cs
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_Content.g.cs
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_MarkupCompile.cache
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.g.resources
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Login.resources
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.MDIMenu.resources
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Properties.Resources.resources
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csproj.GenerateResource.Cache
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe.config
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatPersonal.resources
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatClientes.resources
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCitas.resources
+C:\Users\Desarrollo\Downloads\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProductos.resources
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.baml
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.g.cs
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_Content.g.cs
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_MarkupCompile.cache
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.g.resources
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatPersonal.resources
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatClientes.resources
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCitas.resources
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProductos.resources
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCategorias.resources
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatUnidad.resources
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProveedores.resources
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatConfiguracion.resources
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Cierre.resources
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Ventas.resources
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Login.resources
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.MDIMenu.resources
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Properties.Resources.resources
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.exe
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.pdb
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe.config
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.pdb
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Desarrollo\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Ventas.resources
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.BusquedaClientes.resources
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Detalles.resources
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatNiveles.resources
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Paquetes.resources
+C:\Users\X\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Membresias.resources
+C:\Users\Desarrollo\Google Drive\Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe.config
+C:\Users\Desarrollo\Google Drive\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csprojResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe.config
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.exe
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.pdb
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.pdb
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csprojResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.baml
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.g.cs
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_Content.g.cs
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_MarkupCompile.cache
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.g.resources
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatPersonal.resources
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatClientes.resources
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCitas.resources
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProductos.resources
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCategorias.resources
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatUnidad.resources
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProveedores.resources
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatConfiguracion.resources
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatNiveles.resources
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Cierre.resources
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.BusquedaClientes.resources
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Paquetes.resources
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Membresias.resources
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Detalles.resources
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Ventas.resources
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Login.resources
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.MDIMenu.resources
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csproj.GenerateResource.Cache
+C:\Users\Desarrollo\Desktop\Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Auxiliar.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe.config
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.pdb
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csprojResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.baml
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.g.cs
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_Content.g.cs
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_MarkupCompile.cache
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.g.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatPersonal.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatClientes.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCitas.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProductos.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCategorias.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatUnidad.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProveedores.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatConfiguracion.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatNiveles.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProductosInventario.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Cierre.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.BusquedaClientes.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Auxiliar.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Paquetes.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Membresias.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Detalles.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Ventas.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Login.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.MDIMenu.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csproj.GenerateResource.Cache
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.exe
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.pdb
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.PorPagar.resources
+C:\Users\Desarrollo\Desktop\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Recargas.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe.config
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.exe
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.pdb
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.pdb
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csprojResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.baml
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.g.cs
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_Content.g.cs
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_MarkupCompile.cache
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.g.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatPersonal.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatClientes.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCitas.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProductos.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCategorias.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatUnidad.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProveedores.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatConfiguracion.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatNiveles.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProductosInventario.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.PorCobrar.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.PorPagar.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Cierre.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.BusquedaClientes.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Auxiliar.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Recargas.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Paquetes.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Membresias.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Detalles.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Ventas.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Login.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.MDIMenu.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\Puntos de Venta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csproj.GenerateResource.Cache
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe.config
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.exe
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.pdb
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.pdb
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csprojResolveAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.baml
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.g.cs
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_Content.g.cs
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_MarkupCompile.cache
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.g.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatPersonal.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatClientes.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCitas.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProductos.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCategorias.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatUnidad.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProveedores.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatConfiguracion.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatNiveles.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProductosInventario.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.PorCobrar.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.PorPagar.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Cierre.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.BusquedaClientes.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Auxiliar.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Recargas.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Paquetes.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Membresias.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Detalles.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Ventas.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Login.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.MDIMenu.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Properties.Resources.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csproj.GenerateResource.Cache
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.BusquedaProductos.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.Gastos.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatGastos.resources
+C:\Users\Desarrollo\Desktop\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.GastosAuxiliar.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe.config
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.exe
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.pdb
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.pdb
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csprojResolveAssemblyReference.cache
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.baml
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.g.cs
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_Content.g.cs
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_MarkupCompile.cache
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.g.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatPersonal.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatClientes.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCitas.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProductos.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCategorias.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatUnidad.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProveedores.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatConfiguracion.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatNiveles.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProductosInventario.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatGastos.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.Gastos.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.GastosAuxiliar.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.PorCobrar.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.PorPagar.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.BusquedaProductos.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Cierre.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.BusquedaClientes.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Auxiliar.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Recargas.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Paquetes.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Membresias.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Detalles.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Ventas.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Login.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.MDIMenu.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Properties.Resources.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Tiendas.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csproj.GenerateResource.Cache
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe.config
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.exe
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.pdb
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csprojResolveAssemblyReference.cache
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.baml
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.g.cs
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_Content.g.cs
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_MarkupCompile.cache
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.g.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatPersonal.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatClientes.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCitas.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProductos.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCategorias.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatUnidad.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProveedores.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatConfiguracion.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatNiveles.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProductosInventario.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatGastos.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.Gastos.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.GastosAuxiliar.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.PorCobrar.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.PorPagar.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.BusquedaProductos.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Cierre.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.BusquedaClientes.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Auxiliar.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Recargas.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Paquetes.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Membresias.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Detalles.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Ventas.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Login.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.MDIMenu.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Properties.Resources.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csproj.GenerateResource.Cache
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.pdb
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Estacionar.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatMarcas.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatModelos.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVenta\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatColores.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe.config
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.exe
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.pdb
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.pdb
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csprojResolveAssemblyReference.cache
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.baml
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.g.cs
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_Content.g.cs
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_MarkupCompile.cache
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.g.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatPersonal.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatClientes.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCitas.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProductos.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCategorias.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatUnidad.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProveedores.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatConfiguracion.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatNiveles.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProductosInventario.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatGastos.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatMarcas.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatModelos.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatColores.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.Gastos.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.GastosAuxiliar.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.PorCobrar.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.PorPagar.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.BusquedaProductos.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Cierre.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.BusquedaClientes.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Auxiliar.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Estacionar.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Recargas.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Paquetes.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Membresias.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Detalles.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Ventas.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Login.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.MDIMenu.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Properties.Resources.resources
+C:\Users\siste\Documents\Desarrollo\PuntosdeVentaMercadoLibre\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csproj.GenerateResource.Cache
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe.config
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.exe
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.pdb
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csprojResolveAssemblyReference.cache
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.baml
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.g.cs
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_Content.g.cs
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_MarkupCompile.cache
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.g.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatPersonal.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatClientes.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCitas.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProductos.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCategorias.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatUnidad.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProveedores.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatConfiguracion.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatNiveles.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProductosInventario.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatGastos.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatMarcas.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatModelos.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatColores.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.Gastos.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.GastosAuxiliar.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.PorCobrar.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.PorPagar.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.BusquedaProductos.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Cierre.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.BusquedaClientes.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Auxiliar.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Estacionar.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Recargas.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Paquetes.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Membresias.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Detalles.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Ventas.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Login.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.MDIMenu.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Properties.Resources.resources
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csproj.GenerateResource.Cache
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.pdb
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\CrystalDecisions.Shared.dll
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.dll
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.pdb
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.xml
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe.config
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.exe
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Sistema.Ventas.pdb
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\CrystalDecisions.Shared.dll
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.dll
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\Microsoft.Windows.Shell.xml
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csprojResolveAssemblyReference.cache
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.baml
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\RibbonMenu.g.cs
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_Content.g.cs
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas_MarkupCompile.cache
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.g.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatPersonal.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatClientes.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCitas.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProductos.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatCategorias.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatUnidad.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProveedores.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatConfiguracion.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatNiveles.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatProductosInventario.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatGastos.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatMarcas.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatModelos.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.CatColores.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.Gastos.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.GastosAuxiliar.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.PorCobrar.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Catalogos.PorPagar.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.BusquedaProductos.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Cierre.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.BusquedaClientes.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Auxiliar.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Estacionar.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Recargas.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Paquetes.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Membresias.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Detalles.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Ventas.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Login.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.MDIMenu.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.Properties.Resources.resources
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.csproj.GenerateResource.Cache
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.exe
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\obj\x86\Debug\Sistema.Ventas.pdb
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\FlashControlV71.dll
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\stdole.dll
+D:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\ShockwaveFlashObjects.dll
+E:\proyectos\parking-365\03-fuentes\Estacionamientos.Sistema.Ventas\Sistema.Ventas\bin\Debug\stdole.dll

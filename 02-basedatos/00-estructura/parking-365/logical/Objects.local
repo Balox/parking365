@@ -1,0 +1,35 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<oracle.dbtools.crest.model.design.logical.LogicalDesign>
+   <object objectType="Entity" objectID="01D9614C-10DE-7272-819D-58F64CC520B5" name="PerfilAcceso" seqName="seg_0"/>
+   <object objectType="Entity" objectID="0E8D728C-D8B3-8AA3-A114-A7FB63178B9F" name="espacio" seqName="seg_0"/>
+   <object objectType="Entity" objectID="1057BB94-CADE-335A-6468-82A763F378B5" name="Puerta" seqName="seg_0"/>
+   <object objectType="Entity" objectID="1CB8A3A7-8EAE-F01C-23AB-48883061CB1C" name="tipopuerta" seqName="seg_0"/>
+   <object objectType="Entity" objectID="252FDFC2-6638-E893-3A6D-8DD8EF71920E" name="seccion" seqName="seg_0"/>
+   <object objectType="Entity" objectID="2C9A7FDA-5048-EBD2-12E1-4FD1D3B10370" name="Modulo" seqName="seg_0"/>
+   <object objectType="Entity" objectID="2E6EFD21-B739-F876-7595-63A43EF591B7" name="Usuario" seqName="seg_0"/>
+   <object objectType="Entity" objectID="418CCD2D-1C79-7B7B-715C-DAD952AE91AB" name="maestro" seqName="seg_0"/>
+   <object objectType="Entity" objectID="4FB002EF-4A8B-7EB9-13CB-8420BFE9B702" name="seccionv1" seqName="seg_0"/>
+   <object objectType="Entity" objectID="5DF55AC1-8E83-219A-6C7F-32D9CE3C7AAD" name="PerfilConfiguracion" seqName="seg_0"/>
+   <object objectType="Entity" objectID="66414E13-B26C-24EE-C9F7-35EB1EB3BDF8" name="Configuracion" seqName="seg_0"/>
+   <object objectType="Entity" objectID="8464A5DE-A036-B1C0-2EB9-FFDED8F8BFDA" name="Salida" seqName="seg_0"/>
+   <object objectType="Entity" objectID="89E65F67-12E3-B766-C8C8-3BEDC8D8438B" name="UsuarioConfiguracion" seqName="seg_0"/>
+   <object objectType="Entity" objectID="CE0F30DE-A471-01EF-D0D4-0BD82C641D7B" name="UsuarioAcceso" seqName="seg_0"/>
+   <object objectType="Entity" objectID="D825B383-99F0-C751-CD56-D9B1F7DF2ED6" name="Ingreso" seqName="seg_0"/>
+   <object objectType="Entity" objectID="E34294CD-7D98-ABF5-D14B-899FB5033EF5" name="Perfil" seqName="seg_0"/>
+   <object objectType="Entity" objectID="E7223F0A-11EB-8394-5902-2F6386B5F24C" name="Acceso" seqName="seg_0"/>
+   <object objectType="Relation" objectID="00E84395-27A8-0F30-718B-3BF70D170969" name="FK_Usuario_UsuarioPerfil" seqName="seg_0"/>
+   <object objectType="Relation" objectID="0D0A6E7B-7EF9-99E9-14D4-D64A45475211" name="FK_Acceso_PerfilAcceso" seqName="seg_0"/>
+   <object objectType="Relation" objectID="1F884D3F-2D3B-F996-E79D-C4BFC09A8907" name="FK_Usuario_UsuarioConfiguracion" seqName="seg_0"/>
+   <object objectType="Relation" objectID="27C93794-D512-32FB-2982-3278B2DAEEB0" name="fk_seccion_espacio" seqName="seg_0"/>
+   <object objectType="Relation" objectID="3588950A-99F7-B234-9F46-4B09E660AE8C" name="FK_Configuracion_PerfilConfiguracion" seqName="seg_0"/>
+   <object objectType="Relation" objectID="47F95566-187A-94A2-B475-E69960CBC441" name="fk_tipopuerta_puerta" seqName="seg_0"/>
+   <object objectType="Relation" objectID="A907D551-EF1D-19A8-320F-7BFF0D0ACE67" name="FK_Modulo_Salida" seqName="seg_0"/>
+   <object objectType="Relation" objectID="AB395D27-8CD0-7739-581C-70AA1D44F077" name="FK_Perfil_PerfilConfiguracion" seqName="seg_0"/>
+   <object objectType="Relation" objectID="AD1399E1-6B03-20D3-2B2A-8FFB56E51906" name="FK_Acceso_UsuarioAcceso" seqName="seg_0"/>
+   <object objectType="Relation" objectID="B15511F1-6F62-17E8-5378-B9C0FE66EE15" name="FK_Perfil_Usuario" seqName="seg_0"/>
+   <object objectType="Relation" objectID="C01B4324-EE1E-66CB-E025-34955A0A55CA" name="FK_Modulo_Ingreso" seqName="seg_0"/>
+   <object objectType="Relation" objectID="C5ED6973-AB7E-FF88-A267-13954D66BE1B" name="FK_Configuracion_UsuarioConfiguracion" seqName="seg_0"/>
+   <object objectType="Relation" objectID="D590CA80-ACB1-2797-A334-629E246A188C" name="FK_Ingreso_Salida" seqName="seg_0"/>
+   <object objectType="Relation" objectID="E1D44220-B2CF-13CF-C8F6-2BA819A5E8D4" name="FK_Perfil_PerfilAcceso" seqName="seg_0"/>
+   <object objectType="Relation" objectID="EFFFAB9C-E8AE-31A1-B19A-567030E94C1A" name="FK_Puerta_Modulo" seqName="seg_0"/>
+</oracle.dbtools.crest.model.design.logical.LogicalDesign>

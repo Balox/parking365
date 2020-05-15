@@ -1,0 +1,11 @@
+la idea es trabaje en red con modulo rasberry
+
+se instala la barrera con la impresora 
+presionan el boton 
+la impresora genera un ticket con la hora de ingreso
+cuando pasa la hora
+el cliente va a caja y se tarifa
+luego que cliente paga se genera otro ticket con codigo de barra
+le 15 minutos para salir
+el modiulo de salida lee el ticket 
+lee el ticket si se pasa la hora ya no deja salir

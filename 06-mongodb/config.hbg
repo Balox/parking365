@@ -1,0 +1,56 @@
+=======================================================================
+1. - CREAR CARPETAS DONDE SE VAN A GRABAR DATA Y LOG 
+=======================================================================
+-- DATABASES
+C:\Hagroy\mongodb\data\db
+-- LOGS
+C:\Hagroy\mongodb\log
+=======================================================================
+2.- ESTABLECER RUTAS DE CARPETAS AL SERVICIO DE MONGO
+=======================================================================
+-- Comando
+-------------------------------------------
+C:\Program Files\MongoDB\Server\3.4\bin> mongod --directoryperdb --dbpath C:\Hagroy\mongodb\data\db --logpath C:\Hagroy\mongodb\log\mongo.log --logappend --rest --install
+-------------------------------------------
+-- Ejemplo
+----------------------------------------
+C:\Program Files\MongoDB\Server\3.2\bin>mongod --directoryperdb --dbpath D:\Hagroy\mongodb\data\db --logpath D:\Hagroy\mongodb\log\mongo.log --logappend --rest --install
+2017-07-11T17:33:02.639-0500 I CONTROL  [main] ** WARNING: --rest is specified without --httpinterface,
+2017-07-11T17:33:02.639-0500 I CONTROL  [main] **          enabling http interface
+----------------------------------------
+=======================================================================
+3.- INICIAR SERVICIO MONGODB
+=======================================================================
+-- Comandos
+-------------------------------------------
+net start MongoDB 	=> inicar servicio
+net stop MongoDB 	=> detener servicio
+-------------------------------------------
+C:\Program Files\MongoDB\Server\3.2\bin>net start MongoDB
+-------------------------------------------
+-- Ejemplo
+-------------------------------------------
+C:\Program Files\MongoDB\Server\3.2\bin>net start MongoDB
+El servicio de MongoDB está iniciándose.
+El servicio de MongoDB se ha iniciado correctamente.
+-------------------------------------------
+=======================================================================
+4.- EJECUTAR MONGO
+=======================================================================
+C:\Program Files\MongoDB\Server\3.2\bin>mongo
+MongoDB shell version v3.4.10
+connecting to: mongodb://127.0.0.1:27017
+MongoDB server version: 3.4.10
+Welcome to the MongoDB shell.
+For interactive help, type "help".
+For more comprehensive documentation, see
+        http://docs.mongodb.org/
+Questions? Try the support group
+        http://groups.google.com/group/mongodb-user
+Server has startup warnings:
+2017-11-03T15:16:08.578-0500 I CONTROL  [main] ** WARNING: --rest is specified without --httpinterface,
+2017-11-03T15:16:08.579-0500 I CONTROL  [main] **          enabling http interface
+2017-11-03T15:16:09.445-0500 I CONTROL  [initandlisten]
+2017-11-03T15:16:09.446-0500 I CONTROL  [initandlisten] ** WARNING: Access control is not enabled for the database.
+2017-11-03T15:16:09.446-0500 I CONTROL  [initandlisten] **          Read and write access to data and configuration is unrestricted.
+2017-11-03T15:16:09.446-0500 I CONTROL  [initandlisten]

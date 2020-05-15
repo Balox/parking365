@@ -1,0 +1,242 @@
+﻿<UserControl x:Class="Sistema.Ventas.RibbonMenu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+     
+             xmlns:ribbon="clr-namespace:Microsoft.Windows.Controls.Ribbon;assembly=RibbonControlsLibrary"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="140" d:DesignWidth="1800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        
+        <ribbon:Ribbon x:Name="RibbonOpciones" HorizontalAlignment="Left" Width="1800" ContextMenuClosing="RibbonOpciones_ContextMenuClosing_1" ContextMenuOpening="RibbonOpciones_ContextMenuOpening_1">
+
+            <ribbon:Ribbon.ApplicationMenu>
+                <ribbon:RibbonApplicationMenu SmallImageSource="Imagenes\Modulos.png" x:Name="ribbonAppMenuSII">
+
+               
+
+                    <ribbon:RibbonApplicationMenuItem Header="Ventas"
+                                                      x:Name="ModuloVentas" 
+                                                   
+                                                      ImageSource="Imagenes\Modulos.png"
+                                                      Visibility="Visible" 
+                                                      Tag="1" Click="ModuloVentas_Click" />
+
+                    <ribbon:RibbonApplicationMenuItem Header="Catalogos"
+                                                      x:Name="ModuloCatalogos" 
+                                                   
+                                                      ImageSource="Imagenes\Modulos.png"
+                                                      Visibility="Visible" 
+                                                      Tag="2" Click="ModuloCatalogos_Click" />
+
+
+                </ribbon:RibbonApplicationMenu>
+            </ribbon:Ribbon.ApplicationMenu>
+            <ribbon:Ribbon.QuickAccessToolBar>
+                <ribbon:RibbonQuickAccessToolBar>
+                    <StackPanel Orientation="Horizontal">
+                        <ribbon:RibbonButton Label="" VerticalAlignment="Center" 
+                                             SmallImageSource="Imagenes\Cerrar.png" Name="MenuSesion"
+                                             Click="MenuSesion_Click">
+                        </ribbon:RibbonButton>
+
+                        <ribbon:RibbonSeparator Label="|"></ribbon:RibbonSeparator>
+                        <!--<ribbon:RibbonSplitButton Label="Ventanas" >
+                            <ribbon:RibbonGallery SelectedValue="Green"
+                                                  SelectedValuePath="Content"
+                                                  MaxColumnCount="1">
+                                <ribbon:RibbonGalleryCategory>
+                                    <ribbon:RibbonButton x:Name="Cascada" Label="Cascada" Click="Cascada_Click" ></ribbon:RibbonButton>
+                                    <ribbon:RibbonButton x:Name="Mosaicovertical" Label="Mosaico vertical" Click="Mosaicovertical_Click"></ribbon:RibbonButton>
+                                    <ribbon:RibbonButton x:Name="Mosaicohorizontal" Label="Mosaico horizontal" Click="Mosaicohorizontal_Click"></ribbon:RibbonButton>
+                                    <ribbon:RibbonButton x:Name="Cerrartodo" Label="Cerrar todo" Click="Cerrartodo_Click"></ribbon:RibbonButton>
+                                    <ribbon:RibbonButton x:Name="Organizariconos" Label="Organizar iconos" Click="Organizariconos_Click"></ribbon:RibbonButton>
+                                </ribbon:RibbonGalleryCategory>
+                            </ribbon:RibbonGallery>
+                        </ribbon:RibbonSplitButton>
+
+                        <ribbon:RibbonSeparator Label="|"></ribbon:RibbonSeparator>-->
+                        <!--<ribbon:RibbonButton Label="Acerca de..." VerticalAlignment="Center" 
+                                             SmallImageSource="Imagenes\AcercaDe.png" 
+                                             Name="AcercaDe" Click="AcercaDe_Click">
+                        </ribbon:RibbonButton>
+                        <ribbon:RibbonSeparator Label="|"></ribbon:RibbonSeparator>-->
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Center" >
+                            <TextBlock Text=" " FontWeight="Bold" ></TextBlock>
+                            <TextBlock x:Name="lblNombreModulo" FontWeight="Bold" ></TextBlock>
+                        </StackPanel>
+                    </StackPanel>
+                </ribbon:RibbonQuickAccessToolBar>
+            </ribbon:Ribbon.QuickAccessToolBar>
+
+
+
+            <ribbon:RibbonTab x:Name="GrupoCatalogos"  
+                              Header="Catálogos">
+
+                <ribbon:RibbonGroup x:Name="Group1" 
+                                    Header="Catálogos">
+
+                    <ribbon:RibbonButton x:Name="CatalogosMarcas"
+                                         Label="Catálogo de Marcas"
+                                         ToolTipTitle="Catálogo de Marcas"
+                                         LargeImageSource="Imagenes\sistemas.png"
+                                        Click="CatalogosMarcas_Click" />
+
+                    <ribbon:RibbonButton x:Name="CatalogosModelos"
+                                         Label="Catálogo de Modelos"
+                                         ToolTipTitle="Catálogo de Modelos"
+                                         LargeImageSource="Imagenes\Saldos.png"
+                                        Click="CatalogosModelos_Click" />
+
+                    
+
+                    <ribbon:RibbonButton x:Name="CatalogosClientes"
+                                         Label="Catálogo de Clientes"
+                                         ToolTipTitle="Catálogo de Clientes"
+                                         LargeImageSource="Imagenes\CatPersonal.png"
+                                        Click="CatalogosClientes_Click" />
+
+                    <ribbon:RibbonButton x:Name="CatalogosProductos"
+                                         Label="Catálogo de Productos"
+                                         ToolTipTitle="Catálogo de Productos"
+                                         LargeImageSource="Imagenes\cuentas.png"
+                                        Click="CatalogosProductos_Click" />
+                    
+                    <ribbon:RibbonButton x:Name="CatalogosPersonal"
+                                         Label="Catálogo de personal"
+                                         ToolTipTitle="Catálogo de personal"
+                                         LargeImageSource="Imagenes\Usuarios.png"
+                                         Click="CatalogosPersonal_Click" />
+
+                    <!--<ribbon:RibbonButton x:Name="CatalogosUnidades"
+                                         Label="Catálogo de Unidades"
+                                         ToolTipTitle="Catálogo de Unidades"
+                                         LargeImageSource="Imagenes\Report.png"
+                                         Click="CatalogosUnidades_Click" />-->
+
+                    <ribbon:RibbonButton x:Name="CatalogoColores"
+                                         Label="Catálogo de Colores"
+                                         ToolTipTitle="Catálogo de Colores"
+                                         LargeImageSource="Imagenes\Report.png"
+                                         Click="CatalogosColores_Click" />
+
+                    <ribbon:RibbonButton x:Name="CatalogosCategorias"
+                                         Label="Catálogo de categorias"
+                                         ToolTipTitle="Catálogo de categorias"
+                                         LargeImageSource="Imagenes\nvUserCum.png"
+                                         Click="CatalogosCategorias_Click" />
+
+
+                    <!--<ribbon:RibbonButton x:Name="CatalogosProveedores"
+                                         Label="Catálogo de Proveedores"
+                                         ToolTipTitle="Catálogo de Proveedores"
+                                         LargeImageSource="Imagenes\bitacora.png"
+                                         Click="CatalogosProveedores_Click" />-->
+
+                    <!--<ribbon:RibbonButton x:Name="CatalogosNiveles"
+                                         Label="Catálogo de Niveles"
+                                         ToolTipTitle="Catálogo de Niveles"
+                                         LargeImageSource="Imagenes\permisoperfil.png"
+                                         Click="CatalogosNiveles_Click"  />-->
+
+                    <ribbon:RibbonButton x:Name="CatalogosConfiguracion"
+                                         Label="Catálogo de Configuración"
+                                         ToolTipTitle="Catálogo de Configuración"
+                                         LargeImageSource="Imagenes\WS.png"
+                                         Click="CatalogosConfiguracion_Click" />
+
+
+                </ribbon:RibbonGroup>
+
+            </ribbon:RibbonTab>
+
+
+            <ribbon:RibbonTab x:Name="GrupoVentas"  
+                              Header="Ventas">
+
+                <ribbon:RibbonGroup x:Name="Group2" 
+                                    Header="Ventas">
+
+
+                    <ribbon:RibbonButton x:Name="Estacionamiento"
+                                         Label="Estacionamiento"
+                                         ToolTipTitle="Estacionamiento"
+                                         LargeImageSource="Imagenes\nvStatus1.png"
+                                        Click="Estacionamiento_Click" />
+
+                    <ribbon:RibbonButton x:Name="Ventas"
+                                         Label="Ventas"
+                                         ToolTipTitle="Ventas"
+                                         LargeImageSource="Imagenes\CatVentas.png"
+                                        Click="Ventas_Click" />
+
+                    <ribbon:RibbonButton x:Name="Cierre"
+                                         Label="Cierre de Caja"
+                                         ToolTipTitle="Cierre de Caja"
+                                         LargeImageSource="Imagenes\nvMonto.png"
+                                         Click="Ventas_Cierre_Click" />
+
+                    <!--<ribbon:RibbonButton x:Name="Citas"
+                                         Label="Citas Proveedores"
+                                         ToolTipTitle="Citas"
+                                         LargeImageSource="Imagenes\nvListaO.png"
+                                         Click="CatalogosCitas_Click" />-->
+
+
+                    <!--<ribbon:RibbonButton x:Name="Membresias"
+                                         Label="Membresias"
+                                         ToolTipTitle="Membresias"
+                                         LargeImageSource="Imagenes\deptoprofile.png"
+                                         Click="Membresias_Click" />
+
+
+                    <ribbon:RibbonButton x:Name="Paquetes"
+                                         Label="Paquetes"
+                                         ToolTipTitle="Paquetes"
+                                         LargeImageSource="Imagenes\tipomovimientos.png"
+                                         Click="Paquetes_Click" />-->
+
+                    <ribbon:RibbonButton x:Name="Inventario"
+                                         Label="Inventario"
+                                         ToolTipTitle="Inventario"
+                                         LargeImageSource="Imagenes\zonausuario.png"
+                                         Click="Inventario_Click" />
+
+                    <ribbon:RibbonButton x:Name="CtasPagar"
+                                         Label="Ctas por pagar"
+                                         ToolTipTitle="Ctas por pagar"
+                                         LargeImageSource="Imagenes\Saldo.png"
+                                         Click="CuentasPorPagar_Click" />
+
+                    <ribbon:RibbonButton x:Name="CtasCobrar"
+                                         Label="Ctas por Cobrar"
+                                         ToolTipTitle="Ctas por Cobrar"
+                                         LargeImageSource="Imagenes\pagador.png"
+                                         Click="CuentasPorCobrar_Click" />
+
+                    <ribbon:RibbonButton x:Name="Gastos"
+                                         Label="Gastos"
+                                         ToolTipTitle="Gastos"
+                                         LargeImageSource="Imagenes\comisiones.png"
+                                         Click="GastosCobrar_Click" />
+
+
+
+                </ribbon:RibbonGroup>
+
+            </ribbon:RibbonTab>
+
+
+
+        </ribbon:Ribbon>
+
+    </Grid>
+</UserControl>

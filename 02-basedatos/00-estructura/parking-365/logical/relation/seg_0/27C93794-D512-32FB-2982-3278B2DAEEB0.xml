@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="fk_seccion_espacio" directorySegmentName="seg_0" id="27C93794-D512-32FB-2982-3278B2DAEEB0">
+<createdBy>Balox</createdBy>
+<createdTime>2018-12-29 19:14:07 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>parking-365</ownerDesignName>
+<engineerTo>
+<item key="75CB40CF-3D14-7E83-2F28-75D9E4E74FA1" value="true"/>
+</engineerTo>
+<sourcePk>9FA8A5D9-327A-B320-0B0A-1B5C9892DF1D</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>252FDFC2-6638-E893-3A6D-8DD8EF71920E</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>0E8D728C-D8B3-8AA3-A114-A7FB63178B9F</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

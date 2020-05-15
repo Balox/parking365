@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="report1" language="groovy" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="af66408d-e99b-4923-9e3a-6b2690af24aa">
+	<queryString language="SQL">
+		<![CDATA[select * from detalle ,factura]]>
+	</queryString>
+	<field name="numfac" class="java.lang.Object"/>
+	<field name="codpro" class="java.lang.Object"/>
+	<field name="nompro" class="java.lang.Object"/>
+	<field name="canpro" class="java.lang.Object"/>
+	<field name="valpro" class="java.lang.Object"/>
+	<field name="ivapro" class="java.lang.Object"/>
+	<field name="ivatotalpro" class="java.lang.Object"/>
+	<field name="cedcli" class="java.lang.Object"/>
+	<field name="nomcli" class="java.lang.Object"/>
+	<field name="apecli" class="java.lang.Object"/>
+	<field name="fecfac" class="java.lang.Object"/>
+	<field name="valfac" class="java.lang.Object"/>
+	<field name="desfac" class="java.lang.Object"/>
+	<field name="estfac" class="java.lang.Object"/>
+	<field name="extrafac" class="java.lang.Object"/>
+	<field name="cedusu" class="java.lang.Object"/>
+	<field name="valfac2" class="java.lang.Object"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="79" splitType="Stretch"/>
+	</title>
+	<pageHeader>
+		<band height="35" splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="61" splitType="Stretch"/>
+	</columnHeader>
+	<detail>
+		<band height="125" splitType="Stretch"/>
+	</detail>
+	<columnFooter>
+		<band height="45" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch"/>
+	</summary>
+</jasperReport>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="report2" language="groovy" pageWidth="230" pageHeight="842" columnWidth="190" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="bbe2c5e0-4f2c-4721-8d68-47aaf6ccb6b1">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<parameter name="numfac" class="java.lang.String">
+		<defaultValueExpression><![CDATA[]]></defaultValueExpression>
+	</parameter>
+	<queryString>
+		<![CDATA[select * from titulos,(select d.*,f.* from factura f inner join detalle d on d.numfac=f.numfac
+where d.numfac=$P{numfac});]]>
+	</queryString>
+	<field name="correo" class="java.lang.Object"/>
+	<field name="NOMBRE" class="java.lang.Object"/>
+	<field name="DIRECCION" class="java.lang.Object"/>
+	<field name="TELEFONO" class="java.lang.Object"/>
+	<field name="numfac" class="java.lang.Object"/>
+	<field name="codpro" class="java.lang.Object"/>
+	<field name="nompro" class="java.lang.Object"/>
+	<field name="canpro" class="java.lang.Object"/>
+	<field name="valpro" class="java.lang.Object"/>
+	<field name="ivapro" class="java.lang.Object"/>
+	<field name="ivatotalpro" class="java.lang.Object"/>
+	<field name="iva" class="java.lang.Object"/>
+	<field name="numfac:1" class="java.lang.Object"/>
+	<field name="cedcli" class="java.lang.Object"/>
+	<field name="nomcli" class="java.lang.Object"/>
+	<field name="apecli" class="java.lang.Object"/>
+	<field name="fecfac" class="java.lang.Object"/>
+	<field name="valfac" class="java.lang.Object"/>
+	<field name="desfac" class="java.lang.Object"/>
+	<field name="estfac" class="java.lang.Object"/>
+	<field name="extrafac" class="java.lang.Object"/>
+	<field name="cedusu" class="java.lang.Object"/>
+	<field name="valfac2" class="java.lang.Object"/>
+	<field name="modo" class="java.lang.Object"/>
+	<field name="mensage" class="java.lang.String"/>
+	<field name="nit" class="java.lang.String"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="84" splitType="Stretch">
+			<textField>
+				<reportElement x="0" y="0" width="221" height="20" uuid="46ac4d78-e658-4af0-92b3-130cc1c0ebb1"/>
+				<textElement>
+					<font fontName="SansSerif" size="12"/>
+				</textElement>
+				<textFieldExpression><![CDATA[""+$F{NOMBRE}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="98" y="20" width="221" height="20" uuid="124d96a1-8de7-4bfa-a869-402213a443af"/>
+				<textFieldExpression><![CDATA[""+$F{DIRECCION}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="98" y="40" width="118" height="20" uuid="10eea5a2-23ce-4cb9-b189-a5793d70249e"/>
+				<textFieldExpression><![CDATA[""+$F{TELEFONO}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="100" y="60" width="100" height="20" uuid="438dbad9-4cd9-4c2d-a9aa-2ccaccc966eb"/>
+				<textFieldExpression><![CDATA[$F{nit}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="0" y="60" width="100" height="20" uuid="fa431429-52cd-4b17-bca8-383a0eb5377e"/>
+				<text><![CDATA[NIT:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="-2" y="40" width="100" height="20" uuid="32f37471-f071-4824-9c7a-abdf3c4a6c2e"/>
+				<text><![CDATA[TELEFONOS:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="20" width="100" height="20" uuid="1b13156b-ce74-4bd7-b912-5485fbb65f76"/>
+				<text><![CDATA[DIRECCION:]]></text>
+			</staticText>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="80" splitType="Stretch">
+			<textField>
+				<reportElement x="98" y="0" width="100" height="20" uuid="f9a1ed47-7f44-48d2-a0bf-a97c8c745cf4"/>
+				<textFieldExpression><![CDATA[""+$F{numfac}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="100" y="20" width="82" height="20" uuid="a83a4785-1c43-4dc8-a316-3064a21ef43d"/>
+				<textFieldExpression><![CDATA[""+$F{cedusu}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="98" y="40" width="100" height="20" uuid="cab622bc-13a5-46b8-8784-758016866ce2"/>
+				<textFieldExpression><![CDATA[""+$F{fecfac}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="100" y="60" width="72" height="20" uuid="11c3e76e-c090-4000-9773-42682c5eaf5c"/>
+				<textFieldExpression><![CDATA[""+$F{estfac}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="0" y="0" width="100" height="20" uuid="d8f986ec-e8eb-4653-8469-a1321fc57984"/>
+				<textElement>
+					<font fontName="SansSerif"/>
+				</textElement>
+				<text><![CDATA[# FACTURA:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="40" width="100" height="20" uuid="8b3a07e0-a75e-4628-a947-d9ba27072662"/>
+				<textElement>
+					<font fontName="SansSerif"/>
+				</textElement>
+				<text><![CDATA[FECHA:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="60" width="100" height="20" uuid="4c8b8f05-9135-4e15-8371-752c4e757a50"/>
+				<textElement>
+					<font fontName="SansSerif"/>
+				</textElement>
+				<text><![CDATA[ESTADO:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="20" width="100" height="20" uuid="8f5247c8-8631-4c6b-b101-7eba0e3de3b5"/>
+				<textElement>
+					<font fontName="SansSerif"/>
+				</textElement>
+				<text><![CDATA[VENDEDOR:]]></text>
+			</staticText>
+		</band>
+	</pageHeader>
+	<columnHeader>
+		<band height="62" splitType="Stretch">
+			<textField>
+				<reportElement x="-20" y="20" width="100" height="20" uuid="c380a6c5-ae72-4055-b0bf-684ebd0117eb"/>
+				<textFieldExpression><![CDATA[""+$F{cedcli}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="45" y="20" width="100" height="20" uuid="3d98aabe-eaa5-44e1-a3db-6639b4e8837a"/>
+				<textFieldExpression><![CDATA[""+$F{nomcli}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="128" y="20" width="82" height="20" uuid="ff63731f-254e-401b-858f-ea5e2bec4929"/>
+				<textFieldExpression><![CDATA[""+$F{apecli}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="-20" y="0" width="100" height="20" uuid="78fd3bc7-8acf-455e-abfe-f93206f1077c"/>
+				<textElement>
+					<font fontName="SansSerif"/>
+				</textElement>
+				<text><![CDATA[CEDULA]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="45" y="0" width="100" height="20" uuid="886d29a0-fb60-43d2-8d36-5f8703b08151"/>
+				<textElement>
+					<font fontName="SansSerif"/>
+				</textElement>
+				<text><![CDATA[NOMBRES ]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="-20" y="40" width="100" height="20" uuid="299410a1-c96a-4635-9d69-7bdb5f25e7ce"/>
+				<textElement>
+					<font fontName="SansSerif"/>
+				</textElement>
+				<text><![CDATA[PRODUCTO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="45" y="40" width="100" height="20" uuid="24f64a9d-6a76-47a6-9876-2438ea679909"/>
+				<textElement>
+					<font fontName="SansSerif"/>
+				</textElement>
+				<text><![CDATA[CANTIDAD]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="110" y="40" width="100" height="20" uuid="a6f4db1b-0497-4b0f-ac2a-f9f2209ce398"/>
+				<textElement>
+					<font fontName="SansSerif"/>
+				</textElement>
+				<text><![CDATA[VALOR]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="110" y="0" width="100" height="20" uuid="c2e4b5b3-fbdb-4d48-8339-5c4bd86470fb"/>
+				<textElement>
+					<font fontName="SansSerif"/>
+				</textElement>
+				<text><![CDATA[APELLIDOS]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="160" y="42" width="50" height="20" uuid="fc12183c-d25a-43cf-b374-c9b019c09da6"/>
+				<textElement>
+					<font fontName="SansSerif"/>
+				</textElement>
+				<text><![CDATA[IVA]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="21" splitType="Stretch">
+			<textField>
+				<reportElement x="-15" y="3" width="49" height="16" uuid="798b21ca-e99f-4c87-a34c-3b4ab603b89f"/>
+				<textFieldExpression><![CDATA[""+$F{nompro}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="90" y="3" width="62" height="16" uuid="3632690a-da08-4c02-9006-aabf7439de38"/>
+				<textFieldExpression><![CDATA[""+$F{valpro}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="34" y="3" width="46" height="16" uuid="b580656b-2f8e-4a9f-ab74-3ca8a0cdaa1e"/>
+				<textFieldExpression><![CDATA[""+$F{canpro}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="160" y="3" width="52" height="16" uuid="4f715337-53ac-4b37-bc4a-947bb4656eff"/>
+				<textFieldExpression><![CDATA[""+$F{iva}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="24" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="160" splitType="Stretch">
+			<textField>
+				<reportElement x="116" y="2" width="100" height="20" uuid="ebcbba03-a6b5-4b3e-a198-5b866654925a"/>
+				<textFieldExpression><![CDATA[""+$F{valfac2}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="10" y="2" width="100" height="20" uuid="0810b6d5-fa6e-45de-b84a-96400785c199"/>
+				<textElement>
+					<font fontName="SansSerif"/>
+				</textElement>
+				<text><![CDATA[IVA:]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="0" y="22" width="100" height="20" uuid="978c781d-2a81-4f74-b2c5-2ce477ae7ebb"/>
+				<textElement>
+					<font fontName="SansSerif"/>
+				</textElement>
+				<text><![CDATA[TOTAL FACTURA:]]></text>
+			</staticText>
+			<textField>
+				<reportElement x="116" y="22" width="100" height="20" uuid="c46970ed-89a3-4b5c-91c1-81a6686dc4e6"/>
+				<textFieldExpression><![CDATA[""+$F{valfac}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="10" y="76" width="172" height="63" uuid="233dd370-5d49-4332-9104-984189617b9f"/>
+				<textElement>
+					<font fontName="SansSerif"/>
+				</textElement>
+				<textFieldExpression><![CDATA[$F{mensage}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="10" y="56" width="180" height="20" uuid="1fe888ce-fd1d-4ad6-9e45-7601e86a5ee3"/>
+				<textFieldExpression><![CDATA[""+$F{correo}]]></textFieldExpression>
+			</textField>
+		</band>
+	</summary>
+</jasperReport>

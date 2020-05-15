@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="FK_Modulo_Salida" directorySegmentName="seg_0" id="A907D551-EF1D-19A8-320F-7BFF0D0ACE67">
+<createdBy>peduardo</createdBy>
+<createdTime>2018-09-29 00:28:39 UTC</createdTime>
+<ownerDesignName>parking-365</ownerDesignName>
+<engineerTo>
+<item key="75CB40CF-3D14-7E83-2F28-75D9E4E74FA1" value="true"/>
+</engineerTo>
+<sourcePk>25AD42AB-FABF-917A-58EB-9562813B9D33</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>2C9A7FDA-5048-EBD2-12E1-4FD1D3B10370</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>8464A5DE-A036-B1C0-2EB9-FFDED8F8BFDA</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

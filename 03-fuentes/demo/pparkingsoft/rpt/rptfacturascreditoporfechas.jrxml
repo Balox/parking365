@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="rptfacturascreditoporfechas" language="groovy" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="14b5da56-f5a7-4c5f-84eb-634a2be52de3">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<parameter name="fecfac1" class="java.lang.String">
+		<defaultValueExpression><![CDATA[]]></defaultValueExpression>
+	</parameter>
+	<parameter name="fecfac2" class="java.lang.String">
+		<defaultValueExpression><![CDATA[]]></defaultValueExpression>
+	</parameter>
+	<queryString>
+		<![CDATA[select *,(select SUM(valfac)from factura  where fecfac between
+$P{fecfac1} and $P{fecfac2} and  modo ='CREDITO' ) as suma from  factura  where fecfac between
+$P{fecfac1} and $P{fecfac2} and  modo ='CREDITO';
+
+
+
+]]>
+	</queryString>
+	<field name="numfac" class="java.lang.Object"/>
+	<field name="cedcli" class="java.lang.Object"/>
+	<field name="nomcli" class="java.lang.Object"/>
+	<field name="apecli" class="java.lang.Object"/>
+	<field name="fecfac" class="java.lang.Object"/>
+	<field name="valfac" class="java.lang.Object"/>
+	<field name="desfac" class="java.lang.Object"/>
+	<field name="estfac" class="java.lang.Object"/>
+	<field name="extrafac" class="java.lang.Object"/>
+	<field name="cedusu" class="java.lang.Object"/>
+	<field name="valfac2" class="java.lang.Object"/>
+	<field name="modo" class="java.lang.Object"/>
+	<field name="suma" class="java.lang.Object"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="79" splitType="Stretch">
+			<staticText>
+				<reportElement x="189" y="19" width="244" height="34" uuid="a14a5d58-021d-4d8a-bec1-6f55c81ddf08"/>
+				<textElement>
+					<font size="18"/>
+				</textElement>
+				<text><![CDATA[FACTURAS A CREDITO]]></text>
+			</staticText>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="14" splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="24" splitType="Stretch">
+			<staticText>
+				<reportElement x="4" y="2" width="100" height="20" uuid="cf1d784c-90de-4fb9-a4d9-e85a3c1de863"/>
+				<text><![CDATA[#Factura]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="70" y="0" width="100" height="20" uuid="23114d4a-ecbf-43ce-9f4a-e9dbdaa283f2"/>
+				<text><![CDATA[Cedula]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="124" y="2" width="100" height="20" uuid="830b33d5-1af9-4b63-8269-7a790f47c3bd"/>
+				<text><![CDATA[Nombres]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="276" y="2" width="100" height="20" uuid="8da5b627-c13a-49f0-bef2-7493fc758b86"/>
+				<text><![CDATA[Valor]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="348" y="0" width="100" height="20" uuid="bdab4cb1-a541-4eba-adfe-72f40d601317"/>
+				<text><![CDATA[modo]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="414" y="0" width="100" height="20" uuid="4bb64fa5-117a-4b07-8df5-2983bc21944c"/>
+				<text><![CDATA[Fecha]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="487" y="0" width="100" height="20" uuid="655ef1cc-12a4-4479-9ae3-991d9f07d1b9"/>
+				<text><![CDATA[Vendedor]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="189" y="2" width="100" height="20" uuid="79c07405-3a02-4d51-98cc-2b5fc2bef7a2"/>
+				<text><![CDATA[Apellido]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="21" splitType="Stretch">
+			<textField>
+				<reportElement x="0" y="0" width="100" height="20" uuid="ff7b9ffd-92ea-4d6d-beb3-3c3b2489d573"/>
+				<textFieldExpression><![CDATA[""+$F{numfac}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="70" y="0" width="100" height="20" uuid="98f198a0-8cd9-4317-a830-bbb983bc7084"/>
+				<textFieldExpression><![CDATA[""+$F{cedcli}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="135" y="0" width="100" height="20" uuid="c85d0d47-f3e1-4afc-80dd-1ac3705fa2c9"/>
+				<textFieldExpression><![CDATA[""+$F{nomcli}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="276" y="0" width="100" height="20" uuid="ced5f118-8fa6-4a97-9c79-57bc250c4794"/>
+				<textFieldExpression><![CDATA[""+$F{valfac}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="348" y="0" width="100" height="20" uuid="9102715c-9fde-439e-b444-8c35fae27572"/>
+				<textFieldExpression><![CDATA[""+$F{modo}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="414" y="0" width="100" height="20" uuid="b3b4433d-a86e-46da-b43d-31fd0f3b4ef8"/>
+				<textFieldExpression><![CDATA[""+$F{fecfac}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="204" y="0" width="100" height="20" uuid="1264d739-d715-4f2f-9010-1881829307aa"/>
+				<textFieldExpression><![CDATA[""+$F{apecli}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="487" y="0" width="100" height="20" uuid="fc7fe0ca-0b15-4702-89c9-b2d2bff238c0"/>
+				<textFieldExpression><![CDATA[""+$F{cedusu}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="45" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="25" splitType="Stretch">
+			<staticText>
+				<reportElement x="235" y="0" width="100" height="20" uuid="679a7210-132c-4f9d-8f03-15ac6874d210"/>
+				<text><![CDATA[Total :]]></text>
+			</staticText>
+			<textField>
+				<reportElement x="276" y="0" width="100" height="20" uuid="f828739f-1876-43d8-a18f-4b174a6543b6"/>
+				<textFieldExpression><![CDATA[""+$F{suma}]]></textFieldExpression>
+			</textField>
+		</band>
+	</summary>
+</jasperReport>

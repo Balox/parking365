@@ -1,0 +1,13 @@
+https://www.youtube.com/watch?v=eyb7Gla-ePo
+
+-- instalar y crear una base de datos pequeña en Postgre SQL 9.1
+https://www.youtube.com/watch?v=-3-B4xExVq8
+
+
+https://archive.codeplex.com/?p=socketio4net
+https://archive.codeplex.com/?p=websocket4net
+https://emitter.io/
+
+
+
+https://www.youtube.com/watch?v=E-_dluKioZw

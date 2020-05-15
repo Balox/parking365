@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="DC647160-020E-0C1D-2AFB-E61971E50DDC" mainViewID="06E02071-A573-99B1-F317-7D66FABB9DB8">
+<createdBy>Balox</createdBy>
+<createdTime>2018-09-27 05:05:48 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>parking-365</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

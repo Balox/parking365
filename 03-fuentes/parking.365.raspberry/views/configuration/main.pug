@@ -1,0 +1,53 @@
+div
+  include ../menu
+  snap-dragger
+  snap-content.bg-main(snap-opt-tap-to-close='false')
+    a(href='', snap-toggle='left', ng-click='menuOpen = !menuOpen')
+      span.menutoggle
+        i.fa.fa-bars.fa-2x(ng-hide='menuOpen')
+        i.fa.fa-times.fa-2x(ng-show='menuOpen')
+    .fr
+      h2
+        | Configuración 
+        //small Why is Versatile Theme so awesome?
+    span.glyphicon.glyphicon-cog.bg-fade
+    .jumbotron
+      .container
+        .row
+          form(role='form')
+            .form-group.col-xs-10.col-sm-4.col-md-4.col-lg-4
+              label.label-global Nombre
+              p.text-border-bottom {{ parametro.name }}          
+            .form-group.col-xs-10.col-sm-4.col-md-4.col-lg-4
+              label.label-global Dirección Mac
+              p.text-border-bottom {{ parametro.mac }}
+            .clearfix
+
+            .form-group.col-xs-10.col-sm-4.col-md-4.col-lg-4
+              label.label-global Dirección IP
+              p.text-border-bottom {{ parametro.ip }}
+            .form-group.col-xs-10.col-sm-4.col-md-4.col-lg-4
+              label.label-global Fecha/Hora
+              p.text-border-bottom {{ dateNow }}
+            .clearfix
+            br
+            br
+
+            .form-group.col-xs-10.col-sm-4.col-md-4.col-lg-4
+              label.label-global Tipo            
+            .clearfix
+
+            .form-group.col-xs-10.col-sm-4.col-md-4.col-lg-4
+              label.checkcontainer.margin-10
+                | Entrada
+                input(type='radio', name='tipo', value='1', ng-model='tipo')
+                span.checkmark
+            .form-group.col-xs-10.col-sm-4.col-md-4.col-lg-4
+              label.checkcontainer.margin-10
+                | Salida
+                input(type='radio', name='tipo', value='2', ng-model='tipo')
+                span.checkmark
+            .form-group.col-xs-10.col-sm-4.col-md-4.col-lg-4
+              button.btn.btn-primary.btn-lg.btn-white(ng-click='save()') Guardar
+
+            

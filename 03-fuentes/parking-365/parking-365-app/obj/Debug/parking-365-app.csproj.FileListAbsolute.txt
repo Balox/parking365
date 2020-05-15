@@ -1,0 +1,9 @@
+D:\proyectos\parking-365\03-fuentes\parking-365\parking-365-app\bin\Debug\parking-365-app.exe.config
+D:\proyectos\parking-365\03-fuentes\parking-365\parking-365-app\bin\Debug\parking-365-app.exe
+D:\proyectos\parking-365\03-fuentes\parking-365\parking-365-app\bin\Debug\parking-365-app.pdb
+D:\proyectos\parking-365\03-fuentes\parking-365\parking-365-app\obj\Debug\parking-365-app.csprojResolveAssemblyReference.cache
+D:\proyectos\parking-365\03-fuentes\parking-365\parking-365-app\obj\Debug\parking_365_app.Properties.Resources.resources
+D:\proyectos\parking-365\03-fuentes\parking-365\parking-365-app\obj\Debug\parking-365-app.csproj.GenerateResource.Cache
+D:\proyectos\parking-365\03-fuentes\parking-365\parking-365-app\obj\Debug\parking-365-app.exe
+D:\proyectos\parking-365\03-fuentes\parking-365\parking-365-app\obj\Debug\parking-365-app.pdb
+D:\proyectos\parking-365\03-fuentes\parking-365\parking-365-app\obj\Debug\parking_365_app.forms.security.login.resources

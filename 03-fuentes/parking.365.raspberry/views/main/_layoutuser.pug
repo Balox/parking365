@@ -1,0 +1,46 @@
+doctype html
+html
+  head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+
+    title= title
+    link(rel='stylesheet', type='text/css', href='/stylesheets/login.css')    
+    link(rel='stylesheet', type='text/css', href='/stylesheets/bootstrap3.3.7/bootstrap.min.css') 
+
+    script(type='text/javascript', src='/javascripts/jquery3.1.1/jquery.min.js')
+    script(type='text/javascript', src='/javascripts/user.js')
+  body
+    .jumbotron.vertical-center
+      .container
+
+        .mainbox.col-md-6.col-md-offset-3.col-sm-8.col-sm-offset-2
+          .panel.panel-info
+            .panel-heading
+              .panel-title #{ heading }
+              div(style='float:right; font-size: 80%; position: relative; top:-10px')
+                if isRegister
+                  a(href='/login') Iniciar sesión
+            
+            .panel-body(style='padding-top:30px')
+              if success_msg != ''
+                .alert.alert-success#div_success_msg #{ success_msg }
+                  button.close#btn_success_msg(type='button') ×
+
+              if error_msg != ''
+                .alert.alert-danger#div_error_msg #{ error_msg }
+                  button.close#btn_error_msg(type='button') ×
+
+              if warning_msg != ''
+                .alert.alert-warning#div_warning_msg #{ warning_msg }
+                  button.close#btn_warning_msg(type='button') ×
+
+              if error != ''
+                .alert.alert-danger#div_error_msg2 #{ error }
+                  button.close#btn_error_msg2(type='button') ×
+              
+              block content
+
+              div(style='border-top: 1px solid#888; padding-top:5px; font-size:85% ')
+                | © #{year} Parking 365

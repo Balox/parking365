@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="RPTFECHAS" language="groovy" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="259484e0-d335-46f0-83ea-e3154f7db53c">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="40"/>
+	<parameter name="fecfac1" class="java.lang.String">
+		<defaultValueExpression><![CDATA[]]></defaultValueExpression>
+	</parameter>
+	<parameter name="fecfac2" class="java.lang.String">
+		<defaultValueExpression><![CDATA[]]></defaultValueExpression>
+	</parameter>
+	<queryString>
+		<![CDATA[select *,(select SUM(valfac)from factura  where fecfac between
+$P{fecfac1} and $P{fecfac2} and  modo ='EFECTIVO' ) as suma from  factura  where fecfac between
+$P{fecfac1} and $P{fecfac2} and  modo ='EFECTIVO';]]>
+	</queryString>
+	<field name="numfac" class="java.lang.Object"/>
+	<field name="cedcli" class="java.lang.Object"/>
+	<field name="nomcli" class="java.lang.Object"/>
+	<field name="apecli" class="java.lang.Object"/>
+	<field name="fecfac" class="java.lang.Object"/>
+	<field name="valfac" class="java.lang.Object"/>
+	<field name="desfac" class="java.lang.Object"/>
+	<field name="estfac" class="java.lang.Object"/>
+	<field name="extrafac" class="java.lang.Object"/>
+	<field name="cedusu" class="java.lang.Object"/>
+	<field name="valfac2" class="java.lang.Object"/>
+	<field name="modo" class="java.lang.Object"/>
+	<field name="suma" class="java.lang.Object"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="79" splitType="Stretch">
+			<staticText>
+				<reportElement x="151" y="25" width="311" height="35" uuid="7303cd6f-450c-4eaf-af41-0f2a57e81825"/>
+				<textElement>
+					<font fontName="SansSerif" size="20"/>
+				</textElement>
+				<text><![CDATA[FACTURAS POR FECHAS]]></text>
+			</staticText>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="35" splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="23" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="0" width="100" height="20" uuid="c6575334-c19a-463f-aca4-e72b3d93d930"/>
+				<textElement>
+					<font fontName="SansSerif"/>
+				</textElement>
+				<text><![CDATA[NFACTURA]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="85" y="2" width="100" height="20" uuid="34eff258-c24b-44ab-8870-d715df81a400"/>
+				<textElement>
+					<font fontName="SansSerif"/>
+				</textElement>
+				<text><![CDATA[FECHA]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="151" y="0" width="100" height="20" uuid="54c250ba-471b-4226-9290-768e47e28eed"/>
+				<textElement>
+					<font fontName="SansSerif"/>
+				</textElement>
+				<text><![CDATA[CEDULA C]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="379" y="2" width="100" height="20" uuid="bcfb556f-e7f0-43ff-9246-9d965afd97e1"/>
+				<textElement>
+					<font fontName="SansSerif"/>
+				</textElement>
+				<text><![CDATA[VALOR]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="455" y="2" width="100" height="20" uuid="e5135170-9767-48e4-8a41-e576805c8744"/>
+				<text><![CDATA[MODO]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="216" y="0" width="100" height="20" uuid="cdcfcdd7-0cbe-4e85-836a-b3cddf2683c3"/>
+				<text><![CDATA[NOMBRE]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="294" y="2" width="100" height="20" uuid="e6dcb15d-93a7-4891-8bf8-31d628958a80"/>
+				<text><![CDATA[APELLIDO]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="24" splitType="Stretch">
+			<textField>
+				<reportElement x="0" y="0" width="100" height="20" uuid="58b6df87-729d-428f-a809-6d470ed57962"/>
+				<textFieldExpression><![CDATA[""+$F{numfac}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="85" y="0" width="100" height="20" uuid="2007a658-0643-493e-8cf8-4a3b2693dfa2"/>
+				<textFieldExpression><![CDATA[""+$F{fecfac}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="151" y="0" width="100" height="20" uuid="8a720b60-9f17-4789-b6f4-d67a1fd3f7aa"/>
+				<textFieldExpression><![CDATA[""+$F{cedcli}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="379" y="4" width="100" height="20" uuid="9dc4ee3c-a595-4b33-aeb8-85d71ce62a48"/>
+				<textFieldExpression><![CDATA[""+$F{valfac}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="455" y="4" width="100" height="20" uuid="4ac3679a-9f08-4a56-aeb2-572bd43cfc4e"/>
+				<textFieldExpression><![CDATA[""+$F{modo}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="294" y="4" width="100" height="20" uuid="f0f10bbc-f5c3-4f00-a22b-d5df3b101658"/>
+				<textFieldExpression><![CDATA[""+$F{apecli}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="216" y="4" width="100" height="20" uuid="79e5f259-313f-4fca-9a7d-372ff56e2901"/>
+				<textFieldExpression><![CDATA[""+$F{nomcli}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="45" splitType="Stretch"/>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="42" splitType="Stretch">
+			<staticText>
+				<reportElement x="327" y="10" width="100" height="20" uuid="83ed7a27-0f56-4d7b-b0c5-6cffb957d46f"/>
+				<textElement>
+					<font fontName="SansSerif" size="12"/>
+				</textElement>
+				<text><![CDATA[TOTAL:]]></text>
+			</staticText>
+			<textField>
+				<reportElement x="379" y="10" width="100" height="20" uuid="ee80aefc-9b69-43fc-bb22-be88cf7e7631"/>
+				<textFieldExpression><![CDATA[""+$F{suma}]]></textFieldExpression>
+			</textField>
+			<staticText>
+				<reportElement x="379" y="0" width="100" height="20" uuid="7ed8b0bd-3d54-46b4-89c0-5766b980c730"/>
+				<text><![CDATA[_______________]]></text>
+			</staticText>
+		</band>
+	</summary>
+</jasperReport>

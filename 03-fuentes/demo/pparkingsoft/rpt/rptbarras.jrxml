@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="rptbarras" language="groovy" pageWidth="595" pageHeight="842" columnWidth="555" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="b87c15b0-c02f-4d6c-9159-ef1995893bb2">
+	<property name="ireport.zoom" value="1.0"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="376"/>
+	<queryString language="SQL">
+		<![CDATA[select date('now')]]>
+	</queryString>
+	<field name="date(&apos;now&apos;)" class="java.lang.Object"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="89" splitType="Stretch">
+			<image>
+				<reportElement x="-17" y="0" width="198" height="84" uuid="da0438d0-adc3-4ce0-8474-e17b67bb89c7"/>
+				<imageExpression><![CDATA["testsize.jpg"]]></imageExpression>
+			</image>
+			<image>
+				<reportElement x="279" y="0" width="198" height="84" uuid="8441f39e-6a9e-40cc-ba67-aae0d7c83aea"/>
+				<imageExpression><![CDATA["testsize.jpg"]]></imageExpression>
+			</image>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="87" splitType="Stretch">
+			<image>
+				<reportElement x="-17" y="3" width="198" height="84" uuid="df11846e-bd25-4608-a017-4aca284f7e76"/>
+				<imageExpression><![CDATA["testsize.jpg"]]></imageExpression>
+			</image>
+			<image>
+				<reportElement x="279" y="3" width="198" height="84" uuid="c3a625e8-27be-4299-9771-a1d7f25f273e"/>
+				<imageExpression><![CDATA["testsize.jpg"]]></imageExpression>
+			</image>
+		</band>
+	</pageHeader>
+	<columnHeader>
+		<band height="87" splitType="Stretch">
+			<image>
+				<reportElement x="-17" y="0" width="198" height="84" uuid="a1da2c5a-0538-4a68-8f05-2b3f893d013b"/>
+				<imageExpression><![CDATA["testsize.jpg"]]></imageExpression>
+			</image>
+			<image>
+				<reportElement x="279" y="0" width="198" height="84" uuid="28e5bfd5-34cb-44c0-86a4-58ed7d448392"/>
+				<imageExpression><![CDATA["testsize.jpg"]]></imageExpression>
+			</image>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="89" splitType="Stretch">
+			<image>
+				<reportElement x="-17" y="0" width="198" height="84" uuid="f9ff9ebc-0b04-433d-850d-6a7b9d88821d"/>
+				<imageExpression><![CDATA["testsize.jpg"]]></imageExpression>
+			</image>
+			<image>
+				<reportElement x="279" y="0" width="198" height="84" uuid="6fe88ebb-56db-4b66-bc3c-5da483a27544"/>
+				<imageExpression><![CDATA["testsize.jpg"]]></imageExpression>
+			</image>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="88" splitType="Stretch">
+			<image>
+				<reportElement x="-17" y="0" width="198" height="84" uuid="40cf05ff-f9f5-4bab-be97-094af9580893"/>
+				<imageExpression><![CDATA["testsize.jpg"]]></imageExpression>
+			</image>
+			<image>
+				<reportElement x="279" y="0" width="198" height="84" uuid="f3e57667-b9da-4502-93ec-166b3eb3b19c"/>
+				<imageExpression><![CDATA["testsize.jpg"]]></imageExpression>
+			</image>
+		</band>
+	</columnFooter>
+	<pageFooter>
+		<band height="96" splitType="Stretch">
+			<image>
+				<reportElement x="-17" y="11" width="198" height="84" uuid="327d7dfd-def3-49c0-94d4-a5371eb34fc5"/>
+				<imageExpression><![CDATA["testsize.jpg"]]></imageExpression>
+			</image>
+			<image>
+				<reportElement x="279" y="11" width="198" height="84" uuid="e10000d5-9e8a-4948-aff1-be6b569c16aa"/>
+				<imageExpression><![CDATA["testsize.jpg"]]></imageExpression>
+			</image>
+		</band>
+	</pageFooter>
+	<summary>
+		<band height="85" splitType="Stretch">
+			<image>
+				<reportElement x="-17" y="1" width="198" height="84" uuid="52af4995-4493-4d40-a655-7c18884468f8"/>
+				<imageExpression><![CDATA["testsize.jpg"]]></imageExpression>
+			</image>
+			<image>
+				<reportElement x="279" y="1" width="198" height="84" uuid="417eccdf-6aba-4b86-a69e-bb906604e56f"/>
+				<imageExpression><![CDATA["testsize.jpg"]]></imageExpression>
+			</image>
+		</band>
+	</summary>
+</jasperReport>

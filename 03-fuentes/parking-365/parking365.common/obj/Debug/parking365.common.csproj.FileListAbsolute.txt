@@ -1,0 +1,10 @@
+D:\proyectos\parking-365\03-fuentes\parking-365\parking365.common\bin\Debug\parking365.common.dll
+D:\proyectos\parking-365\03-fuentes\parking-365\parking365.common\bin\Debug\parking365.common.pdb
+D:\proyectos\parking-365\03-fuentes\parking-365\parking365.common\obj\Debug\parking365.common.csprojResolveAssemblyReference.cache
+D:\proyectos\parking-365\03-fuentes\parking-365\parking365.common\obj\Debug\parking365.common.dll
+D:\proyectos\parking-365\03-fuentes\parking-365\parking365.common\obj\Debug\parking365.common.pdb
+E:\proyectos\parking-365\03-fuentes\parking-365\parking365.common\bin\Debug\parking365.common.dll
+E:\proyectos\parking-365\03-fuentes\parking-365\parking365.common\bin\Debug\parking365.common.pdb
+E:\proyectos\parking-365\03-fuentes\parking-365\parking365.common\obj\Debug\parking365.common.csprojResolveAssemblyReference.cache
+E:\proyectos\parking-365\03-fuentes\parking-365\parking365.common\obj\Debug\parking365.common.dll
+E:\proyectos\parking-365\03-fuentes\parking-365\parking365.common\obj\Debug\parking365.common.pdb

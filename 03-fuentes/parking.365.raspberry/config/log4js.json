@@ -1,0 +1,41 @@
+{
+    "appenders": {
+        "out": {
+            "type": "console"
+        },
+        "everything": {
+            "type": "file",
+            "layout": {
+                "type": "pattern",
+                "pattern": "[%d] [%p] [%c] %m"
+            },
+            "filename": "/var/log/parking365/app.log",
+            "maxLogSize": 10485760,
+            "backups": 10
+        },
+        "emergencies": {
+            "type": "file",
+            "layout": {
+                "type": "pattern",
+                "pattern": "[%d] [%p] [%c] %m"
+            },
+            "filename": "/var/log/parking365/error.log",
+            "maxLogSize": 10485760,
+            "numBackups": 5
+        },
+        "errors": {
+            "type": "logLevelFilter",
+            "appender": "emergencies",
+            "level": "error"
+        }
+    },
+    "categories": {
+        "default": {
+            "appenders": [
+                "errors",
+                "everything"
+            ],
+            "level": "all"
+        }
+    }
+}

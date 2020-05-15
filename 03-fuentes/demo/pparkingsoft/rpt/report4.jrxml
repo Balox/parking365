@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="report4" language="groovy" pageWidth="595" pageHeight="842" columnWidth="535" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="8f626e30-0864-4295-9fdf-948dea234ac7">
+	<style name="Title" fontName="Arial" fontSize="26" isBold="true" pdfFontName="Helvetica-Bold"/>
+	<style name="SubTitle" forecolor="#666666" fontName="Arial" fontSize="18"/>
+	<style name="Column header" forecolor="#666666" fontName="Arial" fontSize="12" isBold="true"/>
+	<style name="Detail" fontName="Arial" fontSize="12"/>
+	<queryString language="SQL">
+		<![CDATA[select * from productos]]>
+	</queryString>
+	<field name="codpro" class="java.lang.Object"/>
+	<field name="nompro" class="java.lang.Object"/>
+	<field name="valpro" class="java.lang.Object"/>
+	<field name="precompra" class="java.lang.Object"/>
+	<field name="canpro" class="java.lang.Object"/>
+	<field name="comentario" class="java.lang.Object"/>
+	<field name="iva" class="java.lang.Object"/>
+	<field name="fechav" class="java.lang.Object"/>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="70" splitType="Stretch">
+			<image>
+				<reportElement x="275" y="0" width="300" height="64" uuid="2dfe9347-6fb5-4549-96b4-fbe8dbe84d93"/>
+				<imageExpression><![CDATA["leaf_banner_red.png"]]></imageExpression>
+			</image>
+			<staticText>
+				<reportElement style="Title" x="0" y="13" width="263" height="33" uuid="928c3e2a-ab44-4c2e-97e7-dde4b9b0ede9"/>
+				<textElement verticalAlignment="Middle"/>
+				<text><![CDATA[Leaf Red Title]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="SubTitle" x="117" y="46" width="157" height="22" uuid="f0b8ca98-204a-449b-acfe-dad2ff17b06a"/>
+				<text><![CDATA[Leaf Red SubTitle]]></text>
+			</staticText>
+		</band>
+	</title>
+	<pageHeader>
+		<band splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="36" splitType="Stretch">
+			<line>
+				<reportElement positionType="FixRelativeToBottom" x="0" y="35" width="555" height="1" uuid="633b0446-9ed5-41c9-8161-ad0b7f0d1080"/>
+				<graphicElement>
+					<pen lineWidth="0.5" lineColor="#999999"/>
+				</graphicElement>
+			</line>
+			<staticText>
+				<reportElement style="Column header" x="0" y="19" width="69" height="15" uuid="5a050881-4fb1-4ed0-b50c-84edc9bb8c78"/>
+				<text><![CDATA[codpro]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Column header" x="69" y="19" width="69" height="15" uuid="742258eb-c801-4657-b37c-f21e9a15de2a"/>
+				<text><![CDATA[nompro]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Column header" x="138" y="19" width="69" height="15" uuid="5956ac33-a941-49e6-8c13-da05f733c9d8"/>
+				<text><![CDATA[valpro]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Column header" x="207" y="19" width="69" height="15" uuid="7ec4903b-586a-4acc-a435-a098a189124a"/>
+				<text><![CDATA[precompra]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Column header" x="276" y="19" width="69" height="15" uuid="4dcc8ad5-4a91-4c4e-9b76-a0c1c9f334a2"/>
+				<text><![CDATA[canpro]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Column header" x="345" y="19" width="69" height="15" uuid="bb589d16-9632-487a-a70b-91578b47c335"/>
+				<text><![CDATA[comentario]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Column header" x="414" y="19" width="69" height="15" uuid="e8c25cc7-2f7f-48fa-89f3-6c8d655b1860"/>
+				<text><![CDATA[iva]]></text>
+			</staticText>
+			<staticText>
+				<reportElement style="Column header" x="483" y="19" width="69" height="15" uuid="78a08dc4-ab58-45ac-a7a4-f2a8a22c4795"/>
+				<text><![CDATA[fechav]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="16" splitType="Stretch">
+			<line>
+				<reportElement positionType="FixRelativeToBottom" x="0" y="15" width="555" height="1" uuid="28c8e0b8-10c7-4e40-b830-9c0a0da133a0"/>
+				<graphicElement>
+					<pen lineWidth="0.5" lineColor="#999999"/>
+				</graphicElement>
+			</line>
+			<textField>
+				<reportElement style="Detail" x="0" y="0" width="69" height="15" uuid="169c0b7a-433b-42c4-8007-ac6a8de1db41"/>
+				<textFieldExpression><![CDATA[""+$F{codpro}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement style="Detail" x="69" y="0" width="69" height="15" uuid="c2f5ad50-fea4-4630-b55b-2f8b138b3d45"/>
+				<textFieldExpression><![CDATA[""+$F{nompro}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement style="Detail" x="138" y="0" width="69" height="15" uuid="b2ce7ddd-6c1b-4e34-adcd-124e5108b9cc"/>
+				<textFieldExpression><![CDATA[""+$F{valpro}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement style="Detail" x="207" y="0" width="69" height="15" uuid="eb23c36c-f797-484d-9f1c-cecf92ab2690"/>
+				<textFieldExpression><![CDATA[""+$F{precompra}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement style="Detail" x="276" y="0" width="69" height="15" uuid="95a9ae2d-819c-439d-b39d-518e29a732ee"/>
+				<textFieldExpression><![CDATA[""+$F{canpro}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement style="Detail" x="345" y="0" width="69" height="15" uuid="e3639676-c17e-4a62-b5e5-e5d8eae6fcc1"/>
+				<textFieldExpression><![CDATA[""+$F{comentario}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement style="Detail" x="414" y="0" width="69" height="15" uuid="0f0a697a-d0c1-49ac-981f-fc7624582d20"/>
+				<textFieldExpression><![CDATA[""+$F{iva}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement style="Detail" x="483" y="0" width="69" height="15" uuid="2b379e36-33e8-4ce6-b9c5-8aa0863ce29a"/>
+				<textFieldExpression><![CDATA[""+$F{fechav}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="45" splitType="Stretch">
+			<line>
+				<reportElement positionType="FixRelativeToBottom" x="0" y="3" width="555" height="1" uuid="0af8641f-f1c7-4c0c-97b2-79e692688fc1"/>
+				<graphicElement>
+					<pen lineWidth="0.5" lineColor="#999999"/>
+				</graphicElement>
+			</line>
+		</band>
+	</columnFooter>
+	<pageFooter>
+		<band height="20" splitType="Stretch">
+			<textField>
+				<reportElement style="Column header" x="433" y="0" width="80" height="20" uuid="5f2120f0-08e8-4c00-af78-54d38de41e1b"/>
+				<textElement textAlignment="Right">
+					<font size="10" isBold="false"/>
+				</textElement>
+				<textFieldExpression><![CDATA["Page "+$V{PAGE_NUMBER}+" of"]]></textFieldExpression>
+			</textField>
+			<textField evaluationTime="Report">
+				<reportElement style="Column header" x="513" y="0" width="40" height="20" uuid="7af116ef-7c24-4aa2-9d6f-3a9bca430715"/>
+				<textElement>
+					<font size="10" isBold="false"/>
+				</textElement>
+				<textFieldExpression><![CDATA[" " + $V{PAGE_NUMBER}]]></textFieldExpression>
+			</textField>
+			<textField pattern="EEEEE dd MMMMM yyyy">
+				<reportElement style="Column header" x="0" y="0" width="197" height="20" uuid="457c22f4-b2bd-46a2-9fe6-e4ccf1c113ff"/>
+				<textElement>
+					<font size="10" isBold="false"/>
+				</textElement>
+				<textFieldExpression><![CDATA[new java.util.Date()]]></textFieldExpression>
+			</textField>
+		</band>
+	</pageFooter>
+	<summary>
+		<band splitType="Stretch"/>
+	</summary>
+</jasperReport>

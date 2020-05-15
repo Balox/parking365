@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="FK_Configuracion_PerfilConfiguracion" directorySegmentName="seg_0" id="3588950A-99F7-B234-9F46-4B09E660AE8C">
+<createdBy>Balox</createdBy>
+<createdTime>2018-09-27 06:07:50 UTC</createdTime>
+<generatorID>Generado por el Usuario</generatorID>
+<ownerDesignName>parking-365</ownerDesignName>
+<engineerTo>
+<item key="75CB40CF-3D14-7E83-2F28-75D9E4E74FA1" value="true"/>
+</engineerTo>
+<sourcePk>33649556-A112-3E62-5FEF-99C3FC2341CA</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>66414E13-B26C-24EE-C9F7-35EB1EB3BDF8</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>5DF55AC1-8E83-219A-6C7F-32D9CE3C7AAD</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>
